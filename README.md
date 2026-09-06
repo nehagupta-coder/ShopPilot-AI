@@ -436,27 +436,27 @@ The following screenshots demonstrate the main features of **ShopPilot AI**.
 
 ### 🤖 AI Shopping Agent
 
-![AI Shopping Agent](./docs/screenshots/AI%20Shopping%20Agent.png)
+![AI Shopping Agent](./ShopPilot-AI/docs/screenshots/AI%20Shopping%20Agent.png)
 
 ### 🔎 Product Search
 
-![Product Search](./docs/screenshots/Product%20Search.png)
+![Product Search](./ShopPilot-AI/docs/screenshots/Product%20Search.png)
 
 ### 📦 Product Details
 
-![Product Details](./docs/screenshots/Product%20Details.png)
+![Product Details](./ShopPilot-AI/docs/screenshots/Product%20Details.png)
 
 ### ⚖️ Product Comparison
 
-![Product Comparison](./docs/screenshots/Product%20Comparison.png)
+![Product Comparison](./ShopPilot-AI/docs/screenshots/Product%20Comparison.png)
 
 ### 🛒 Smart Cart
 
-![Smart Cart](./docs/screenshots/Smart%20Cart.png)
+![Smart Cart](./ShopPilot-AI/docs/screenshots/Smart%20Cart.png)
 
 ### 📊 AI Growth Dashboard
 
-![AI Growth Dashboard](./docs/screenshots/AI%20Growth%20Dashboard.png)
+![AI Growth Dashboard](./ShopPilot-AI/docs/screenshots/AI%20Growth%20Dashboard.png)
 
 
 
