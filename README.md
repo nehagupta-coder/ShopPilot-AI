@@ -432,7 +432,7 @@ The following screenshots demonstrate the main features of **ShopPilot AI**.
 
 ### 🏠 Home Page
 
-![ShopPilot AI Home Page](./docs/screenshots/home.png)
+![Home Page](./ShopPilot-AI/docs/screenshots/home.png)
 
 ### 🤖 AI Shopping Agent
 
