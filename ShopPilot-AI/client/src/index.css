@@ -1,0 +1,49 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: light;
+}
+
+.dark {
+  color-scheme: dark;
+}
+
+html,
+body,
+#root {
+  min-height: 100%;
+}
+
+body {
+  @apply bg-ink-50 text-ink-900 dark:bg-ink-950 dark:text-ink-50;
+}
+
+.prose-chat p {
+  margin-bottom: 0.6rem;
+}
+
+.prose-chat strong {
+  @apply font-semibold text-ink-900 dark:text-white;
+}
+
+.skeleton {
+  @apply animate-pulse rounded-xl bg-ink-100 dark:bg-ink-800;
+}
+
+.chip {
+  @apply inline-flex items-center rounded-full border border-ink-200 bg-white px-3 py-1 text-xs font-medium text-ink-600 dark:border-ink-700 dark:bg-ink-900 dark:text-ink-200;
+}
+
+.btn-primary {
+  @apply inline-flex items-center justify-center gap-2 rounded-full bg-ink-900 px-5 py-2.5 text-sm font-semibold text-white transition hover:bg-ink-700 disabled:cursor-not-allowed disabled:opacity-50 dark:bg-copper-500 dark:text-ink-950 dark:hover:bg-copper-400;
+}
+
+.btn-ghost {
+  @apply inline-flex items-center justify-center gap-2 rounded-full border border-ink-200 bg-white px-4 py-2 text-sm font-medium text-ink-800 transition hover:border-ink-400 dark:border-ink-700 dark:bg-ink-900 dark:text-ink-100;
+}
+
+.card {
+  @apply rounded-2xl border border-ink-100 bg-white shadow-card dark:border-ink-800 dark:bg-ink-900;
+}

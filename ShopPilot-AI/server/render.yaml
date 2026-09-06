@@ -1,0 +1,28 @@
+# Example Render blueprint for the ShopPilot API.
+# Create a Web Service from the /server folder or this repo root with:
+#   Build: npm install && npm run build -w server
+#   Start: npm run start -w server
+services:
+  - type: web
+    name: shopilot-api
+    env: node
+    plan: free
+    buildCommand: npm install && npm run build -w server
+    startCommand: npm run start -w server
+    envVars:
+      - key: NODE_ENV
+        value: production
+      - key: PORT
+        value: 4000
+      - key: MONGO_URI
+        sync: false
+      - key: JWT_SECRET
+        generateValue: true
+      - key: CLIENT_URL
+        sync: false
+      - key: AI_PROVIDER
+        value: mock
+      - key: AI_API_KEY
+        sync: false
+      - key: AI_MODEL
+        value: gpt-4o-mini
