@@ -713,3 +713,11 @@ ShopPilot AI aims to make commerce more intelligent by allowing customers and bu
 **Event:** Razorpay AI Builder Internship 2026
 
 **Focus:** AI Agents + Commerce + Personalization + Growth Intelligence
+----
+## 👩‍💻 Author
+
+**Neha Gupta**
+
+📧 Email: [ng8846558@gmail.com](mailto:ng8846558@gmail.com)
+
+🔗 LinkedIn: [Neha Gupta](https://www.linkedin.com/in/neha-gupta-1892312b8)
