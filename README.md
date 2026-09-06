@@ -714,10 +714,16 @@ ShopPilot AI aims to make commerce more intelligent by allowing customers and bu
 
 **Focus:** AI Agents + Commerce + Personalization + Growth Intelligence
 ----
+---
+
 ## 👩‍💻 Author
 
-**Neha Gupta**
+Name : **Neha Gupta**
 
-📧 Email: [ng8846558@gmail.com](mailto:ng8846558@gmail.com)
+Role : **Full Stack Developer | Software Engineer**
 
-🔗 LinkedIn: [Neha Gupta](https://www.linkedin.com/in/neha-gupta-1892312b8)
+Email : **[ng8846558@gmail.com](mailto:ng8846558@gmail.com)**
+
+LinkedIn : **[Neha Gupta](https://www.linkedin.com/in/neha-gupta-1892312b8)**
+
+---
